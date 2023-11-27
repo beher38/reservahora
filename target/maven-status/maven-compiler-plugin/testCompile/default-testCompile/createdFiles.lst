@@ -1,0 +1,3 @@
+StepDefinition\Steps.class
+com\petSmile\ReservaHora\AppTest.class
+TestRunner\Runner.class
